@@ -218,11 +218,11 @@ This repository is part of a series on building real LLM systems:
 
 [2] Yi Luan, Jacob Eisenstein, Kristina Toutanova, Michael Collins; Sparse, Dense, and Attentional Representations for Text Retrieval. Transactions of the Association for Computational Linguistics 2021; 9 329–345. *TACL.* doi: https://doi.org/10.1162/tacl_a_00369
 
-[3] Liu et al. (2024). Lost in the middle: How language models use long contexts. *TACL.* https://doi.org/10.1162/tacl_a_00638
+[3] Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang; Lost in the Middle: How Language Models Use Long Contexts. Transactions of the Association for Computational Linguistics 2024; 12 157–173. *TACL.* https://doi.org/10.1162/tacl_a_00638
 
-[4] Lewis et al. (2020). Retrieval-augmented generation for knowledge-intensive NLP tasks. *NeurIPS.* https://arxiv.org/abs/2005.11401
+[4] Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela. (2020). Retrieval-augmented generation for knowledge-intensive NLP tasks. *NeurIPS.* https://arxiv.org/abs/2005.11401
 
-[5] Gao et al. (2023). Precise zero-shot dense retrieval without relevance labels. *ACL 2023.* https://arxiv.org/abs/2212.10496
+[5] Luyu Gao, Xueguang Ma, Jimmy Lin, Jamie Callan. (2023). Precise zero-shot dense retrieval without relevance labels. *ACL 2023.* https://arxiv.org/abs/2212.10496
 
 ---
 
