@@ -13,8 +13,8 @@ Most RAG systems monitor confidence. Confidence looks fine — even trends upwar
 Memory accumulates. Accuracy collapses. This is the failure nobody measures, demonstrated
 in four phases with real benchmark numbers and a working fix.
 
-Read the full write-up on Towards Data Science → **[RAG Gets Worse as It Grows — I Built the Memory Layer That Stops It](#)**
-*(https://towardsdatascience.com/)*
+Read the full write-up on Towards Data Science → **[RAG Gets Worse as It Grows — I Built the Memory Layer That Stops It](https://towardsdatascience.com/)**
+
 
 ---
 
