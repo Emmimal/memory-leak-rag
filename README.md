@@ -216,7 +216,7 @@ This repository is part of a series on building real LLM systems:
 
 [1] Robertson & Zaragoza (2009). The probabilistic relevance framework: BM25 and beyond. *Foundations and Trends in Information Retrieval.* https://doi.org/10.1561/1500000019
 
-[2] Luan et al. (2021). Sparse, dense, and attentional representations for text retrieval. *TACL.* https://doi.org/10.1162/tacl_a_00369
+[2] Yi Luan, Jacob Eisenstein, Kristina Toutanova, Michael Collins; Sparse, Dense, and Attentional Representations for Text Retrieval. Transactions of the Association for Computational Linguistics 2021; 9 329–345. *TACL.* doi: https://doi.org/10.1162/tacl_a_00369
 
 [3] Liu et al. (2024). Lost in the middle: How language models use long contexts. *TACL.* https://doi.org/10.1162/tacl_a_00638
 
